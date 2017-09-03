@@ -17,7 +17,7 @@ All the sketches are included too, as well as copies of the libraries I've used 
 
 LINKS
 ==
-Here's a link to the ESPDuino board (no, I don't get commission!) and even better, it includes a link to the special version of the Arduino IDE with instructions.
+Here's a link to the ESPDuino board (no, I don't get commission!) and even better, it includes a link to the special version of the Arduino IDE with instructions.  
 https://www.banggood.com/ESPDuino-Development-Board-ESP-13-WiFi-UNO-R3-from-ESP8266-p-1023370.html 
 
 ---
