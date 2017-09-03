@@ -14,7 +14,8 @@ You can download a version of the Arduino IDE with it all configured and ready t
 
 All the sketches are included too, as well as copies of the libraries I've used (these have an irritating habit of either disappearing or being changed so they no longer work with some sketches, so at least you have the identical library that I used in my sketch and therefore you will know the sketch will run correctly!)
 
-==LINKS    LINKS    LINKS    LINKS    LINKS    LINKS    LINKS
+==
+LINKS    LINKS    LINKS    LINKS    LINKS    LINKS    LINKS
 
 Here's a link to the ESPDuino board (no, I don't get commission!) and even better, it includes a link to the special version of the Arduino IDE with instructions.
 https://www.banggood.com/ESPDuino-Development-Board-ESP-13-WiFi-UNO-R3-from-ESP8266-p-1023370.html 
